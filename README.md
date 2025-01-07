@@ -17,4 +17,4 @@
 
 
 
-[linkedin]: https://www.linkedin.com/in/lazon-george
+[linkedin]: https://www.linkedin.com/in/lazon-george-7b86002a3/
